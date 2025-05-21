@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_nav"
+        android:icon="@drawable/menu"
+        android:title="Menú" />
+    <item
+        android:id="@+id/quizz_nav"
+        android:icon="@drawable/quizz"
+        android:title="Quizzes" />
+    <item
+        android:id="@+id/perfil_nav"
+        android:icon="@drawable/perfil"
+        android:title="Perfil" />
+</menu>
