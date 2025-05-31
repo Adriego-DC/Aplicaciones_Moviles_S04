@@ -5,11 +5,17 @@ La aplicación desarrollada es un sistema de evaluación interactivo tipo “Qui
 ¿Cómo funciona?
 
 •	Al iniciar la aplicación, el usuario debe de registrarse primero
+
 •	Una vez registrado se ingresa a la aplicación y está dividida en 3 secciones: La primera el Menú que tiene una descripción de la aplicación, la segunda “Quizzes” donde están los quizzes que tendrá la app y el tercer apartado el perfil donde podrás ver tus datos.
+
 •	En el apartado de “Quizzes” se debe ingresar un código de acceso al quiz.
+
 •	Actualmente, el único código válido para acceder al cuestionario es “1111”, lo cual permite un control simple y efectivo de acceso.
+
 •	Una vez validado el código, el usuario accede a una serie de preguntas tipo test, cada una con múltiples opciones.
+
 •	El usuario selecciona una respuesta por pregunta y avanza hasta completar el quiz.
+
 •	Al finalizar, la aplicación muestra el resultado final indicando el puntaje total obtenido.
 
 ¿Qué contiene la aplicación?
